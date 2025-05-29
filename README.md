@@ -5,7 +5,7 @@ Welcome to my GitHub profile!
 ## 👨‍🎓 About Me
 
 - 🎓 **Current Student** with a deep passion for Computer Science, AI, and a curiosity for engineering.
-- 🚀 **Transitioning soon:** After CS, I'm hoping to complete an AI MSc before finally heading into Mechanical Engineering, just because I can.
+- 🚀 **Transitioning soon:** After CS, I'm hoping to complete an AI MSc before finally heading into Mechanical Engineering, driven by curiosity and madness.
 
 ## 💻 Skills
 
@@ -21,9 +21,8 @@ Welcome to my GitHub profile!
   ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=fff)
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
 
-- **🌱 I’m currently learning**  
-  - Machine Learning (ML)
-  - Unity & ML-Agents (currently teaching a0nd researching!)
+- **🌱 I’m currently learning**
+  - Unity & ML-Agents (currently researching!)
 
 ## 🕹️ What I'm Working On
 
