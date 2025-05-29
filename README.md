@@ -1,26 +1,11 @@
 ## Hi there 👋
 
-<!--
-**Avarexity/Avarexity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 Welcome to my GitHub profile!
 
 ## 👨‍🎓 About Me
 
 - 🎓 **Current Student** with a deep passion for Computer Science, AI, and a curiosity for engineering.
-- 🚀 **Transitioning soon:** After CS, I'm hoping to complete an AI MSc before finally heading into Mechanical Engineering, just because I can (thanks, Europe!).
+- 🚀 **Transitioning soon:** After CS, I'm hoping to complete an AI MSc before finally heading into Mechanical Engineering, just because I can.
 
 ## 💻 Skills
 
@@ -31,6 +16,8 @@ Welcome to my GitHub profile!
   ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+  ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
 
 - **🌱 I’m currently learning**  
   - Machine Learning (ML)
@@ -56,7 +43,8 @@ Welcome to my GitHub profile!
 ## ⚡ Fun Facts
 
 - I got into Computer Science partly on a whim, but I've gotten pretty good at it—and I wouldn't change a thing!
-- After finishing CS, I'm jumping into Mechanical Engineering… because why not? (Universities are free in Europe!)
+- I'm hoping to go into an AI MSc after finishing CS
+- After finishing my master's in AI, I'm jumping into Mechanical Engineering… because why not?
 
 ---
 
