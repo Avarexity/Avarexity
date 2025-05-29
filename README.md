@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there, I'm Whard Assaf (Avarexity)! 👋
-
 Welcome to my GitHub profile!
 
 ## 👨‍🎓 About Me
