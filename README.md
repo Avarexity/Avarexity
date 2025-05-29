@@ -40,7 +40,7 @@ Welcome to my GitHub profile!
 
 - [LinkedIn](https://www.linkedin.com/in/whard-assaf/)
 - [Instagram](https://www.instagram.com/whard.assaf3/)
-- [X (Twitter)](https://x.com/Whard_Assaf)
+- [Twitter (X)](https://x.com/Whard_Assaf)
 
 ## ⚡ Fun Facts
 
